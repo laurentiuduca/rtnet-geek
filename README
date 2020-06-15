@@ -1,5 +1,8 @@
 # rtnet-geek
 
+We have now RTnet (UDP) ported to PREEMPT_RT
+(see the rtnet-preempt_rt repository)!
+
 Contents
 ====
 1. beaglebone-black
